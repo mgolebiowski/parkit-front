@@ -17,7 +17,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 styles/sass/.sass-cache/*
-node_modules/*
 
 # =========================
 # Operating System Files
