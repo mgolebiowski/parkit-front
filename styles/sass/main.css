@@ -35,7 +35,8 @@ h3.desc {
     margin-bottom: 20px; }
   .infobox .grey-card {
     background-color: #a89d8c;
-    border-radius: 0; }
+    border-radius: 0;
+    min-height: 283px; }
     .infobox .grey-card h4 {
       padding-top: 20px;
       font-size: 30px;
