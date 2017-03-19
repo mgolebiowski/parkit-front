@@ -8,7 +8,6 @@ section_1 {
   display: flex; }
 
 #main-photo img {
-  margin-top: 7rem;
   max-width: 350px; }
 
 .low-opc {
@@ -23,5 +22,39 @@ section_1 {
 .car-img {
   max-width: 200px;
   margin-bottom: 7rem; }
+
+h3.desc {
+  color: white;
+  font-size: 24px;
+  font-weight: 200;
+  line-height: 1.5em; }
+
+.infobox {
+  margin-top: 10vh; }
+  .infobox .col-md-4 {
+    margin-bottom: 20px; }
+  .infobox .grey-card {
+    background-color: #a89d8c;
+    border-radius: 0; }
+    .infobox .grey-card h4 {
+      padding-top: 20px;
+      font-size: 30px;
+      line-height: 41px;
+      letter-spacing: 0.5px;
+      color: #262120; }
+    .infobox .grey-card p {
+      text-align: justify;
+      padding: 15px; }
+
+h5 {
+  padding-top: 28px;
+  font-size: 22px;
+  color: #666; }
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+  background-color: white; }
+
+.fp-slidesNav {
+  margin-top: 50px; }
 
 /*# sourceMappingURL=main.css.map */
