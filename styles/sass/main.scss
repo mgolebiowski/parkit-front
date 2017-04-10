@@ -5,3 +5,8 @@
 @import 'section3.scss';
 @import 'section4.scss';
 @import 'footer.scss';
+
+html,body
+{
+    overflow-x: hidden!important;
+}
